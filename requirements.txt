@@ -1,7 +1,0 @@
-streamlit>=1.36.0
-torch>=2.2.0
-transformers>=4.41.0
-safetensors>=0.4.3
-pandas>=2.0.0
-numpy>=1.24.0
-plotly>=5.22.0
